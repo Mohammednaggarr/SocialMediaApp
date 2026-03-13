@@ -1,4 +1,4 @@
-# SocialBox API
+# SocialMedia API
 
 A production-ready RESTful Social Media backend built with Node.js, TypeScript, Express v5, MongoDB, Socket.IO, and AWS S3.
 
